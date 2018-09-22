@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTView.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/manikumar/Documents/Personal/reactReduxCalculator/node_modules/react-native/React/Views/UIView+React.h

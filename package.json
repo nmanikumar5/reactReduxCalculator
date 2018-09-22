@@ -1,0 +1,16 @@
+{
+  "name": "reactReduxCalculator",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "^0.42.0",
+    "react-native-material-design": "^0.3.7",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.8.2"
+  }
+}
